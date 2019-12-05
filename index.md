@@ -26,7 +26,7 @@
 ## Added Team Changer Tab 
                         
 # Changelog v1.0.1
-### Added Chat Tab
-### Added Chat Spam
-### Added SpeedHack button
-### Added Chat Copier (buggy, dont work still fixing)
+### - Added Chat Tab
+### - Added Chat Spam
+### - Added SpeedHack button
+### - Added Chat Copier (buggy, dont work still fixing)
