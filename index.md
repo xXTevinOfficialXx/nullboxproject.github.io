@@ -21,15 +21,8 @@
 ### Made by Spy Main#0801 / TevinOfficial
 ### If you want contribute with a script or a feature request use https://github.com/Roblox-NullBox/NullBox/issues or contact me on Discord.
 
---= Changelog v1.0.0 =--
-- Added Misc Tab
-- Added Team Changer Tab
-</>
---= Changelog v1.0.1 =--
-``` markdown
-- Added Chat Tab
-- Added Chat Spam
-- Changed UI colors
-- More Stability
-- Instant Respawn (God Mode)
-```
+--= Changelog v1.0.0 =-- | --= Changelov v1.0.1 =--
+- Added Misc Tab         | - Added Chat Tab
+- Added Team Changer Tab | - Added Chat Spam 
+                         | - Changed UI colors 
+                         | - Instant Respawn  
