@@ -24,7 +24,7 @@
 --= Changelog v1.0.0 =--
 - Added Misc Tab
 - Added Team Changer Tab
-============================
+
 --= Changelog v1.0.1 =--
 - Added Chat Tab
 - Added Chat Spam
