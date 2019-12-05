@@ -26,8 +26,10 @@
 - Added Team Changer Tab
 </>
 --= Changelog v1.0.1 =--
+``` markdown
 - Added Chat Tab
 - Added Chat Spam
 - Changed UI colors
 - More Stability
 - Instant Respawn (God Mode)
+```
