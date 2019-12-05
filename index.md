@@ -30,3 +30,8 @@
 - Added Chat Spam
 - Added SpeedHack button
 - Added Chat Copier (buggy, dont work still fixing)
+
+<Changelog v1.0.2>
+- afsiojgdfg
+-dfgsdfgdfg
+- dfghddhg
